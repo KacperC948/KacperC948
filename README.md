@@ -25,10 +25,7 @@
 ![Maven](https://img.shields.io/badge/MAVEN-000000?style=for-the-badge&logo=apachemaven&logoColor=blue)
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-![](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
+<a href="https://www.linkedin.com/in/kacper-cichosz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **KacperC948/KacperC948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
